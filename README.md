@@ -14,3 +14,8 @@ Here are some pre-defined queries which have been used for our application:
  2. SELECT * FROM Supplier WHERE SupplierID = '2';
  3. SELECT * FROM Supplier WHERE Country = 'Germany';
  4. SELECT * FROM Supplier WHERE Region IS  NULL;
+ 
+ ## OPTIMIZATION
+ We have used Lazy Loading to optimize the website
+ ![WhatsApp Image 2022-06-03 at 1 05 50 AM](https://user-images.githubusercontent.com/71961774/171723997-552a2d3d-c335-481f-b814-75edbddb5721.jpeg)
+
