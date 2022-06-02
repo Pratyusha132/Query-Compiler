@@ -5,6 +5,7 @@ https://online-query-compiler.netlify.app/
 ## TECH STACKS
 <p align="left">
  <img src="https://user-images.githubusercontent.com/71961774/171719451-2ef06084-c7ae-41da-aa50-ade3dfae5279.png" height="70px" width="80px">
+ <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" height="70px" width="80px">
 </p>
 ## PRE-DEFINED QUERIES 
 Here are some pre-defined queries which have been used for our application:
